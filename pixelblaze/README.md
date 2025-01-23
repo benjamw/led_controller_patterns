@@ -1,6 +1,8 @@
 # PixelBlaze Patterns
 
-Other patterns and original patterns can be found at [PixelBlaze Patterns](https://electromage.com/patterns).
+Other patterns and originals of edited patterns can be found at [PixelBlaze Patterns](https://electromage.com/patterns).
+
+## 1D
 
 - **Color Blend w/Spread**
 
